@@ -1,8 +1,14 @@
-# Getting Started with Best Web Developer
+# Best Web Developer
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Updated Developer Information
+- you will get world class developer
 
-## Available Scripts
+## Developer's Projects Price
+- you will get developer's project price
+
+## Easily Hire
+- you can easily hire world class web developer according to your budget calculation 
+
 
 In the project directory, you can run:
 
