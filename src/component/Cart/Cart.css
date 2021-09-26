@@ -1,0 +1,35 @@
+.single-cart {
+    text-align: center;
+    color: rgb(3, 15, 56);
+    background: rgba(171, 204, 186, 0.685);
+    max-width: 300px;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 1rem 3rem rgba(0, 0, 0, .175);
+}
+
+.counte-card {
+    color: rgb(27, 124, 2);
+}
+
+.single-cart h2,
+h4 {
+    border-bottom: 1px solid rgba(253, 248, 248, 0.867);
+    padding: 5px 0;
+}
+
+.card-number {
+    color: rgb(175, 0, 0);
+}
+
+.imgOrName {
+    display: flex;
+    flex-direction: column;
+}
+
+.developerImg img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    object-fit: cover;
+}

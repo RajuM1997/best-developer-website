@@ -1,0 +1,72 @@
+body {
+    background: #eaeaea;
+    overflow-x: hidden;
+}
+
+.single-developer {
+    max-width: 500px;
+}
+
+.single-developer .card {
+    background: rgb(250, 250, 250);
+    box-shadow: 0 1rem 3rem rgba(0, 0, 0, .175);
+    border-radius: 10px;
+}
+
+.single-developer p {
+    font-weight: 700;
+    color: #000;
+    font-size: 20px;
+}
+
+.single-developer img {
+    max-width: 318px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+.single-developer h4 {
+    font-weight: 600;
+    color: rgb(49, 79, 250);
+}
+
+.single-developer .card-footer {
+    background: none;
+    border: none;
+    text-align: center;
+}
+
+.fas {
+    padding-right: 5px;
+}
+
+.addDeveloper {
+    border: 1px solid crimson;
+    background: transparent;
+    color: crimson;
+    padding: 8px 25px;
+    font-weight: 500;
+    font-size: 16px;
+    letter-spacing: 1px;
+    transition: 1s;
+}
+
+.addDeveloper:hover {
+    background: crimson;
+    color: #fff;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+
+}
+
+.single-developer .quality {
+    color: rgb(236, 154, 1);
+}
+
+.email {
+    color: rgba(255, 0, 0, 0.65);
+    padding-left: 3px;
+    cursor: pointer;
+}
