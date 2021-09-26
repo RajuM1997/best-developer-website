@@ -12,7 +12,7 @@ const Cart = (props) => {
     <div className="single-cart">
       <h2>
         <i class="fas fa-shopping-cart counte-card"></i>
-        Add Cart: <span className="card-number">{cart.length}</span>
+        Added Cart: <span className="card-number">{cart.length}</span>
       </h2>
       <h4>Total Price: ${parseInt(total)}</h4>
       {cart.map((developer) => (
