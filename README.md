@@ -1,9 +1,21 @@
-# Getting Started with Create React App
+# Best Web Developer
 
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-\*hello
+=======
 
-## Available Scripts
+## Updated Developer Information
+
+- you will get world class developer
+
+## Developer's Projects Price
+
+- you will get developer's project price
+
+## Easily Hire
+
+- you can easily hire world class web developer according to your budget calculation
+  > > > > > > > 245f4d902c4aeae719609d8328cc78edb3d3da39
 
 In the project directory, you can run:
 
